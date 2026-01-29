@@ -1,0 +1,14 @@
+C:\Users\terre\3D Objects\GroupProject\GroupProjectServices\GroupProjectServices\obj\Debug\GroupProjectServices.csproj.AssemblyReference.cache
+C:\Users\terre\3D Objects\GroupProject\GroupProjectServices\GroupProjectServices\obj\Debug\GroupProjectServices.csproj.CoreCompileInputs.cache
+C:\Users\terre\3D Objects\GroupProject\GroupProjectServices\GroupProjectServices\bin\GroupProjectServices.dll.config
+C:\Users\terre\3D Objects\GroupProject\GroupProjectServices\GroupProjectServices\bin\GroupProjectServices.dll
+C:\Users\terre\3D Objects\GroupProject\GroupProjectServices\GroupProjectServices\bin\GroupProjectServices.pdb
+C:\Users\terre\3D Objects\GroupProject\GroupProjectServices\GroupProjectServices\obj\Debug\GroupProjectServices.dll
+C:\Users\terre\3D Objects\GroupProject\GroupProjectServices\GroupProjectServices\obj\Debug\GroupProjectServices.pdb
+C:\Users\Bonga\Desktop\INFORMATICS2B\GroupProject\GroupProject\GroupProjectServices\GroupProjectServices\bin\GroupProjectServices.dll.config
+C:\Users\Bonga\Desktop\INFORMATICS2B\GroupProject\GroupProject\GroupProjectServices\GroupProjectServices\bin\GroupProjectServices.dll
+C:\Users\Bonga\Desktop\INFORMATICS2B\GroupProject\GroupProject\GroupProjectServices\GroupProjectServices\bin\GroupProjectServices.pdb
+C:\Users\Bonga\Desktop\INFORMATICS2B\GroupProject\GroupProject\GroupProjectServices\GroupProjectServices\obj\Debug\GroupProjectServices.csproj.AssemblyReference.cache
+C:\Users\Bonga\Desktop\INFORMATICS2B\GroupProject\GroupProject\GroupProjectServices\GroupProjectServices\obj\Debug\GroupProjectServices.csproj.CoreCompileInputs.cache
+C:\Users\Bonga\Desktop\INFORMATICS2B\GroupProject\GroupProject\GroupProjectServices\GroupProjectServices\obj\Debug\GroupProjectServices.dll
+C:\Users\Bonga\Desktop\INFORMATICS2B\GroupProject\GroupProject\GroupProjectServices\GroupProjectServices\obj\Debug\GroupProjectServices.pdb
