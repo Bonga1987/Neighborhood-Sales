@@ -110,22 +110,15 @@ Mitigation strategies include user verification, product inspection, secure paym
 
 ---
 
-## Future Improvements
-- Expansion to province‑level trading
-- Dedicated exchange centers
-- Rating and review system
-- Mobile application
-- Enhanced fraud detection mechanisms
-
----
-
 ## Project Status
-In progress / Concept & design phase
+Complete
 
 ---
 
 ## Contributors
-- Bonga Mzongwana
+- MZONGWANA B
+- MASIMINI Y
+- MALOMA OM
 
 ---
 
